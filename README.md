@@ -1,0 +1,1 @@
+# wp-imagick-webp-converter
