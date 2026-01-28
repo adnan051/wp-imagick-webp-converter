@@ -1,3 +1,4 @@
+<?php
 //Script to change images in Webp format
 
 /**
